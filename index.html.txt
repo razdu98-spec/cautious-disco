@@ -1,0 +1,23 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title>HTML practice for ICT <title>
+</head>
+<body>
+<h1> I am a student of Dhaka University. I was admitted in 2019-2020 session. i choose IER as my department but I am not happy with my department. </h1> 
+<h2> There are so much pressure on my academic study but at the end of the day the output in the job sector is zero. </h2> 
+<img src="20247.jfif" alt="A picture of cultural program" width= "300" height="200">
+<a href="htmlforierstudent.com" target="click me" 
+<table border=1>
+<tr> 
+<th> Name </td>
+<th> Age </tr>
+<th> City </tr>
+</tr>
+<tr>
+<td>Arman </td>
+<td> 32</td>
+<td> London </td>
+</table>
+</body>
+
